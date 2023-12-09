@@ -25,3 +25,5 @@ At the end of the quiz, get a summary of your performance, including the number 
 Make sure you have Python installed on your system.
 Execute the script, and the quiz will begin.
 Embark on this noun-filled adventure, test your knowledge, and enjoy learning in a playful quiz format!
+## ✨ **Credits**
+- [**Syeda Maira Saad**]()
